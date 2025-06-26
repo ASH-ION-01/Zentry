@@ -75,5 +75,5 @@ Need help or facing bugs? Join the community:
 **Clone the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
-cd award-winning-website
+git clone https://github.com/ASH-ION-01/Zentry.git
+cd Zentry
